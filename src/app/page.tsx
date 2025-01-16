@@ -104,7 +104,7 @@ export default function Home() {
 
     return (
         <main className="p-8 max-w-2xl mx-auto">
-            <h1 className="text-2xl font-bold mb-6">TON BOC 產生器</h1>
+            <h1 className="text-2xl font-bold mb-6">TON BOC 產生器(WalletV5R1)</h1>
 
             <div className="space-y-4">
                 <div>
